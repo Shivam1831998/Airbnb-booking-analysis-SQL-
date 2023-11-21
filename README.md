@@ -1,4 +1,4 @@
-# SQL-windows-functions-project
+# SQL-window-functions-project
 Data Analysis of New york Airbnbs bookings using window functions.
 SQL Project to extract useful information from dataset contining records of Airbnbs bookings in New York City using window functions for my practise.
 - Database used : PostgreSQL
